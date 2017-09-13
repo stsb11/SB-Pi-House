@@ -1,0 +1,66 @@
+.my-icon {
+position: relative;
+}
+.my-icon > i {
+position: absolute;
+display: inline-block;
+width: 0.5217391304347826em;
+height: 2.869565217391304em;
+background-color: #b1b1b1;
+left: 1.3043478260869565em;
+top: 0em;
+}
+.my-icon > i+i {
+position: absolute;
+display: inline-block;
+width: 2.4782608695652173em;
+height: 2.869565217391304em;
+background-color: #d3d3d3;
+left: 1.826086956521739em;
+top: 0em;
+}
+.my-icon > i+i+i {
+position: absolute;
+display: inline-block;
+width: 2.0869565217391304em;
+height: 2.608695652173913em;
+background-color: #c4c3c3;
+left: 2.217391304347826em;
+top: 2.869565217391304em;
+}
+.my-icon > i+i+i+i {
+position: absolute;
+display: inline-block;
+width: 2.217391304347826em;
+height: 2.608695652173913em;
+background-color: #a4a4a4;
+left: 0em;
+top: 2.869565217391304em;
+}
+.my-icon > i+i+i+i+i {
+position: absolute;
+display: inline-block;
+width: 1.5652173913043477em;
+height: 1.5652173913043477em;
+background-color: #a4a4a4;
+left: 0.6521739130434783em;
+top: 5.478260869565217em;
+}
+.my-icon > i+i+i+i+i+i {
+position: absolute;
+display: inline-block;
+width: 0.5217391304347826em;
+height: 0.2608695652173913em;
+background-color: #000000;
+left: 1.3043478260869565em;
+top: 0em;
+}
+.my-icon > i+i+i+i+i+i+i {
+position: absolute;
+display: inline-block;
+width: 0.6521739130434783em;
+height: 0.2608695652173913em;
+background-color: #000000;
+left: 0em;
+top: 5.217391304347826em;
+}

@@ -1,0 +1,12 @@
+03-07-2016 @ 20:21:17: Front door: Closed<br> 
+03-07-2016 @ 20:21:19: Back door: Closed<br> 
+03-07-2016 @ 20:22:00: Back door: Open<br> 
+03-07-2016 @ 20:22:08: Back door: Closed<br> 
+03-07-2016 @ 20:22:22: Front door: Open<br> 
+03-07-2016 @ 20:22:26: Front door: Closed<br> 
+03-07-2016 @ 20:22:50: Front door: Closed<br> 
+03-07-2016 @ 20:22:52: Back door: Closed<br> 
+03-07-2016 @ 20:23:43: Front door: Closed<br> 
+03-07-2016 @ 20:23:45: Back door: Closed<br> 
+04-07-2016 @ 05:47:47: Back door: Open<br> 
+04-07-2016 @ 05:48:57: Back door: Closed<br> 
